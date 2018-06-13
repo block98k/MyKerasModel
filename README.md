@@ -1,2 +1,2 @@
 # MyKerasModel
-My own keras model libs, update continue......
+My own keras model libs, Continually updated
